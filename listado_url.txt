@@ -1,0 +1,190 @@
+,Tick,nombre,curr_id,smlID,header
+0,DJUSAE,dj-aerospace---defense,19977,2039693,Dow Jones Aerospace &amp; Defense Historical Data
+1,DJUSAF,dj-delivery-services,20029,2040317,Dow Jones Delivery Services Historical Data
+2,DJUSAG,dj-asset-managers,20008,2040065,Dow Jones Asset Managers Historical Data
+3,DJUSAI,dj-electronic-equipment,20037,2040413,Dow Jones Electronic Equipment Historical Data
+4,DJUSAL,dj-aluminum,20006,2040041,Dow Jones Aluminum Historical Data
+5,DJUSAM,dj-medical-equipment,20067,2040773,Dow Jones Medical Equipment Historical Data
+6,DJUSAP,dj-automobiles---parts,19962,2039513,Dow Jones Automobiles &amp; Parts Historical Data
+7,DJUSAR,dj-airlines,20005,2040029,Dow Jones Airlines Historical Data
+8,DJUSAS,dj-aerospace,20004,2040017,Dow Jones Aerospace Historical Data
+9,DJUSAT,dj-auto-parts,20009,2040077,Dow Jones Auto Parts Makers Historical Data
+10,DJUSAU,dj-automobiles,20010,2040089,Dow Jones Automobiles Historical Data
+11,DJUSAV,dj-media-agencies,20066,2040761,Dow Jones Media Agencies Historical Data
+12,DJUSBC,dj-broadcasting---entertainment,20013,2040125,Dow Jones Broadcasting &amp; Entertainment Historical Data
+13,DJUSBD,dj-building-materials---fixtures,20015,2040149,Dow Jones Building Materials &amp; Fixtures Historical Data
+14,DJUSBE,dj-business-training---employment,20017,2040173,Dow Jones Business Training &amp; Employment Agencies Historical Data
+15,DJUSBK,dj-banks,19963,2039525,Dow Jones Banks Historical Data
+16,DJUSBM,dj-basic-materials,19954,2039417,Dow Jones Basic Materials Historical Data
+17,DJUSBS,dj-basic-resources,19964,2039537,Dow Jones Basic Resources Historical Data
+18,DJUSBT,dj-biotechnology,20011,2040101,Dow Jones Biotechnology Historical Data
+19,DJUSBV,dj-beverages,19978,2039705,Dow Jones Beverages Historical Data
+20,DJUSCA,dj-gambling,20047,2040533,Dow Jones Gambling Historical Data
+21,DJUSCC,dj-commodity-chemicals,20021,2040221,Dow Jones Commodity Chemicals Historical Data
+22,DJUSCF,dj-clothing---accessories,20018,2040185,Dow Jones Clothing &amp; Accessories Historical Data
+23,DJUSCG,dj-travel---leisure,20003,2040005,Dow Jones Travel &amp; Leisure Historical Data
+24,DJUSCH,dj-chemicals,19965,2039549,Dow Jones Chemicals Historical Data
+25,DJUSCL,dj-coal,20019,2040197,Dow Jones Coal Historical Data
+26,DJUSCM,dj-personal-products,20077,2040893,Dow Jones Personal Products Historical Data
+27,DJUSCN,dj-construction---materials,19966,2039561,Dow Jones Construction &amp; Materials Historical Data
+28,DJUSCP,dj-containers---packaging,20026,2040281,Dow Jones Containers &amp; Packaging Historical Data
+28,DJUSCR,dj-computer-hardware,20022,2040233,Dow Jones Computer Hardware Historical Data
+29,DJUSCS,dj-special-consumer-services,20095,2041109,Dow Jones Specialized Consumer Services Historical Data
+30,DJUSCT,dj-telecommunications-equipment,20100,2041169,DowJones Telecommunications Equipment Historical Data
+31,DJUSCX,dj-specialty-chemicals,20096,2041121,Dow Jones Specialty Chemicals Historical Data
+32,DJUSCY,dj-consumer-services,19956,2039441,Dow Jones Consumer Services Historical Data
+33,DJUSDB,dj-brewers,20012,2040113,Dow Jones Brewers Historical Data
+34,DJUSDN,dj-defense,20028,2040305,Dow Jones Defense Historical Data
+35,DJUSDR,dj-food---drug-retailers,19980,2039729,Dow Jones Food &amp; Drug Retailers Historical Data
+36,DJUSDS,dj-industrial-suppliers,20058,2040665,Dow Jones Industrial Suppliers Historical Data
+37,DJUSDT,dj-diversified-reits,20032,2040353,Dow Jones Diversified REITs Historical Data
+38,DJUSDV,dj-computer-services,20023,2040245,Dow Jones Computer Services Historical Data
+39,DJUSEC,dj-electrical-components---equip,20035,2040389,Dow Jones Electrical Components &amp; Equipment Historical Data
+40,DJUSEE,dj-electronic---electrical-equip,19979,2039717,Dow Jones Electronic &amp; Electrical Equipment Historical Data
+41,DJUSEH,dj-real-estate-holding---dev,20084,2040977,Dow Jones Real Estate Holding &amp; Development Historical Data
+42,DJUSEN,dj-oil---gas,19972,2039633,Dow Jones Oil &amp; Gas Historical Data
+43,DJUSES,dj-real-estate-services,20085,2040989,Dow Jones Real Estate Services Historical Data
+44,DJUSEU,dj-electricity,20036,2040401,Dow Jones Electricity Historical Data
+45,DJUSFA,dj-financial-administration,20040,2040449,Dow Jones Financial Administration Historical Data
+46,DJUSFB,dj-food---beverage,19968,2039585,Dow Jones Food &amp; Beverage Makers Historical Data
+47,DJUSFC,dj-fixed-line-telecommunications,20041,2040461,DowJones Fixed Line Telecommunications Historical Data
+48,DJUSFD,dj-food-retailers---wholesalers,20043,2040485,Dow Jones Food Retail &amp; Wholesale Historical Data
+49,DJUSFE,dj-industrial-machinery,20056,2040641,Dow Jones Industrial Machinery Historical Data
+50,DJUSFH,dj-furnishings,20046,2040521,Dow Jones Furnishings Historical Data
+51,DJUSFI,dj-financial-services,19967,2039573,Dow Jones Financial Services Historical Data
+52,DJUSFN,dj-financials,19957,2039453,Dow Jones Financials Historical Data
+53,DJUSFO,dj-food-producers,19981,2039741,Dow Jones Food Producers Historical Data
+54,DJUSFP,dj-food-products,20042,2040473,Dow Jones Food Product Makers Historical Data
+55,DJUSFR,dj-forestry---paper,19982,2039753,Dow Jones Forestry &amp; Paper Historical Data
+56,DJUSFT,dj-footwear,20044,2040497,Dow Jones Footwear Historical Data
+57,DJUSFV,dow-jones-us-financial-service,40824,2057418,Dow Jones Financial Services Composite Historical Data
+58,DJUSGF,dj-us-financials-services-sector,40825,2057430,Dow Jones Financial Services Historical Data
+59,DJUSGI,dj-general-industrials,19984,2039777,Dow Jones General Industrials Historical Data
+60,DJUSGT,dj-general-retailers,19985,2039789,Dow Jones General Retailers Historical Data
+61,DJUSGU,dj-gas-distribution,20048,2040545,Dow Jones Gas Distribution Historical Data
+62,DJUSHB,dj-home-construction,20052,2040593,Dow Jones Home Construction Historical Data
+63,DJUSHC,dj-health-care,19958,2039465,Dow Jones Health Care Historical Data
+64,DJUSHD,dj-durable-household-products,20034,2040377,Dow Jones Durable Household Products Historical Data
+65,DJUSHG,dj-household-goods---home-construct,19987,2039813,Dow Jones Household Goods &amp; Home Construction Historical Data
+66,DJUSHI,dj-home-improvement-retailers,20053,2040605,Dow Jones Home Improvement Retailers Historical Data
+67,DJUSHL,dj-hotel---lodging-reits,20055,2040629,Dow Jones Hotel &amp; Lodging REITs Historical Data
+68,DJUSHN,dj-nondurable-household-products,20073,2040845,DowJones Nondurable Household Products Historical Data
+69,DJUSHP,dj-health-care-providers,20050,2040569,Dow Jones Health Care Providers Historical Data
+70,DJUSHR,dj-commercial-vehicles---trucks,20020,2040209,Dow Jones Commercial Vehicles &amp; Trucks Historical Data
+71,DJUSHV,dj-heavy-construction,20051,2040581,Dow Jones Heavy Construction Historical Data
+72,DJUSIB,dj-insurance-brokers,20059,2040677,Dow Jones Insurance Brokers Historical Data
+73,DJUSID,dj-diversified-industrials,20031,2040341,Dow Jones Diversified Industrials Historical Data
+74,DJUSIF,dj-full-line-insurance,20045,2040509,Dow Jones Full Line Insurance Historical Data
+75,DJUSIG,dj-industrial-goods---srvcs,19969,2039597,Dow Jones Industrial Goods &amp; Services Historical Data
+76,DJUSIL,dj-life-insurance,20064,2040737,Dow Jones Life Insurance Historical Data
+77,DJUSIM,dj-industrial-metals---mining,19989,2039837,Dow Jones Industrial Metals &amp; Mining Historical Data
+78,DJUSIN,dj-industrials,19959,2039477,Dow Jones Industrials Historical Data
+79,DJUSIO,dj-industrial---office-reits,20057,2040653,Dow Jones Industrial &amp; Office REITs Historical Data
+80,DJUSIP,dj-property-casualty-insurance,20081,2040941,Dow Jones Property &amp; Casualty Insurance Historical Data
+81,DJUSIQ,dj-industrial-engineering,19988,2039825,Dow Jones Industrial Engineering Historical Data
+82,DJUSIR,dj-insurance,19970,2039609,Dow Jones Insurance Historical Data
+83,DJUSIS,dj-support-services,20001,2039981,Dow Jones Support Services Historical Data
+84,DJUSIT,dj-industrial-transportation,19990,2039849,Dow Jones Industrial Transportation Historical Data
+85,DJUSIU,dj-reinsurance,20088,2041025,Dow Jones Reinsurance Historical Data
+86,DJUSIV,dj-business-support-services,20016,2040161,Dow Jones Business Support Services Historical Data
+87,DJUSIX,dj-nonlife-insurance,19993,2039885,Dow Jones Nonlife Insurance Historical Data
+88,DJUSLE,dj-leisure-goods,19991,2039861,Dow Jones Leisure Goods Historical Data
+89,DJUSLG,dj-hotels,20054,2040617,Dow Jones Hotels Historical Data
+90,DJUSLW,dj-low-cap,19951,2039381,Dow Jones Low-Cap Historical Data
+91,DJUSM,dj-mid-cap,19949,2039357,Dow Jones Mid-Cap Historical Data
+92,DJUSMC,dj-health-care-equip---services,19986,2039801,Dow Jones Health Care Equipment &amp; Services Historical Data
+93,DJUSME,dj-media,19971,2039621,Dow Jones Media Historical Data
+94,DJUSMF,dj-mortgage-finance,20070,2040809,Dow Jones Mortgage Finance Historical Data
+95,DJUSMG,dj-mining,19992,2039873,Dow Jones Mining Historical Data
+96,DJUSMR,dj-mortgage-reits,20071,2040821,Dow Jones Mortgage REITs Historical Data
+97,DJUSMS,dj-medical-supplies,20068,2040785,Dow Jones Medical Supplies Historical Data
+98,DJUSMT,dj-marine-transportation,20065,2040749,Dow Jones Marine Transportation Historical Data
+99,DJUSMU,dj-multiutilities,20072,2040833,Dow Jones Multiutilities Historical Data
+100,DJUSNC,dj-consumer-goods,19955,2039429,Dow Jones Consumer Goods Historical Data
+101,DJUSNF,dj-nonferrous-metals,20074,2040857,Dow Jones Nonferrous Metals Historical Data
+102,DJUSNG,dj-personal---household-goods,19973,2039645,Dow Jones Personal &amp; Household Goods Historical Data
+103,DJUSNS,dj-internet,20061,2040701,Dow Jones Internet Historical Data
+104,DJUSOE,dj-electronic-office-equipment,20038,2040425,DowJones Electronic Office Equipment Historical Data
+105,DJUSOG,dj-oil---gas-producers,19994,2039897,Dow Jones Oil &amp; Gas Producers Historical Data
+106,DJUSOI,dj-oil-equipment---services,20075,2040869,Dow Jones Oil Equipment &amp; Services Historical Data
+107,DJUSOL,dj-integrated-oil---gas,20060,2040689,Dow Jones Integrated Oil &amp; Gas Historical Data
+108,DJUSOQ,dj-oil-equipment;-services---dist,19995,2039909,Dow Jones Oil Equipment Services &amp; Distribution Historical Data
+109,DJUSOS,dj-exploration---production,20039,2040437,Dow Jones Exploration &amp; Production Historical Data
+110,DJUSPB,dj-publishing,20082,2040953,Dow Jones Publishing Historical Data
+111,DJUSPC,dj-waste---disposal-services,20107,2041253,Dow Jones Waste &amp; Disposal Services Historical Data
+112,DJUSPG,dj-personal-goods,19996,2039921,Dow Jones Personal Goods Historical Data
+113,DJUSPL,dj-pipelines,20079,2040917,Dow Jones Pipelines Historical Data
+114,DJUSPM,dj-gold-mining,20049,2040557,Dow Jones Gold Mining Historical Data
+115,DJUSPN,dj-pharmaceuticals---biotechnology,19997,2039933,Dow Jones Pharmaceuticals &amp; Biotechnology Historical Data
+116,DJUSPP,dj-paper,20076,2040881,Dow Jones Paper Historical Data
+117,DJUSPR,dj-pharmaceuticals,20078,2040905,Dow Jones Pharmaceuticals Historical Data
+118,DJUSRA,dj-apparel-retailers,20007,2040053,Dow Jones Apparel Retailers Historical Data
+119,DJUSRB,dj-broadline-retailers,20014,2040137,Dow Jones Broadline Retailers Historical Data
+120,DJUSRD,dj-drug-retailers,20033,2040365,Dow Jones Drug Retailers Historical Data
+121,DJUSRE,dj-real-estate,19974,2039657,Dow Jones Real Estate Historical Data
+122,DJUSRH,dj-real-estate-invest---services,19998,2039945,Dow Jones Real Estate Investment &amp; Services Historical Data
+123,DJUSRI,dj-real-estate-investment-trusts,19999,2039957,DowJones Real Estate Investment Trusts Historical Data
+124,DJUSRL,dj-retail-reits,20091,2041061,Dow Jones Retail REITs Historical Data
+125,DJUSRN,dj-residential-reits,20089,2041037,Dow Jones Residential REITs Historical Data
+126,DJUSRP,dj-recreational-products,20086,2041001,Dow Jones Recreational Products Historical Data
+127,DJUSRQ,dj-recreational-services,20087,2041013,Dow Jones Recreational Services Historical Data
+128,DJUSRR,dj-railroads,20083,2040965,Dow Jones Railroads Historical Data
+129,DJUSRS,dj-specialty-retailers,20099,2041157,Dow Jones Specialty Retailers Historical Data
+130,DJUSRT,dj-retail,19975,2039669,Dow Jones Retailers Historical Data
+131,DJUSRU,dj-restaurants---bars,20090,2041049,Dow Jones Restaurants &amp; Bars Historical Data
+132,DJUSSB,dj-investment-services,20062,2040713,Dow Jones Investment Services Historical Data
+133,DJUSSC,dj-semiconductors,20092,2041073,Dow Jones Semiconductors Historical Data
+134,DJUSSD,dj-soft-drinks,20093,2041085,Dow Jones Soft Drinks Historical Data
+135,DJUSSF,dj-consumer-finance,20025,2040269,Dow Jones Consumer Finance Historical Data
+136,DJUSSP,dj-specialty-finance,20097,2041133,Dow Jones Specialty Finance Historical Data
+137,DJUSSR,dj-specialty-reits,20098,2041145,Dow Jones Specialty REITs Historical Data
+138,DJUSST,dj-iron---steel,20063,2040725,Dow Jones Iron &amp; Steel Historical Data
+139,DJUSSV,dj-software---computer-services,20000,2039969,Dow Jones Software &amp; Computer Services Historical Data
+140,DJUSSW,dj-software,20094,2041097,Dow Jones Software Historical Data
+141,DJUSTB,dj-tobacco,20102,2041193,Dow Jones Tobacco Historical Data
+142,DJUSTC,dj-technology,19976,2039681,Dow Jones Technology Historical Data
+143,DJUSTK,dj-trucking,20106,2041241,Dow Jones Trucking Historical Data
+144,DJUSTL,dj-telecommunications,19960,2039489,Dow Jones Telecommunications Historical Data
+145,DJUSTP,dj-top-cap,19952,2039393,Dow Jones Top-Cap Historical Data
+146,DJUSTQ,dj-technology-hardware---equipment,20002,2039993,Dow Jones Technology Hardware &amp; Equipment Historical Data
+147,DJUSTR,dj-tires,20101,2041181,Dow Jones Tires Historical Data
+148,DJUSTS,dj-transportation-services,20104,2041217,Dow Jones Transportation Services Historical Data
+149,DJUSTT,dj-travel---tourism,20105,2041229,Dow Jones Travel &amp; Tourism Historical Data
+150,DJUSTY,dj-toys,20103,2041205,Dow Jones Toys Historical Data
+151,DJUSUO,dj-gas;-water---multiutilities,19983,2039765,Dow Jones Gas Water &amp; Multiutilities Historical Data
+152,DJUSUT,dj-utilities,19961,2039501,Dow Jones Utilities Historical Data
+153,DJUSVA,dj-value,20122,2041433,Dow Jones Value Historical Data
+154,DJUSVE,dj-conventional-electricity,20027,2040293,Dow Jones Conventional Electricity Historical Data
+155,DJUSVL,dj-large-cap-value,20116,2041361,Dow Jones Large-Cap Value Historical Data
+156,DJUSVM,dj-mid-cap-value,20118,2041385,Dow Jones Mid-Cap Value Historical Data
+157,DJUSVN,dj-distillers---vintners,20030,2040329,Dow Jones Distillers &amp; Vintners Historical Data
+158,DJUSVS,dj-small-cap-value,20120,2041409,Dow Jones Small-Cap Value Historical Data
+159,DJUSWC,dj-mobile-telecommunications,20069,2040797,Dow Jones Mobile Telecommunications Historical Data
+160,DJUSWU,dj-water,20108,2041265,Dow Jones Water Historical Data
+161,STOXX50E,eu-stoxx50,175,2030175,Euro Stoxx 50 Historical Data
+162,SSEC,shanghai-composite,40820,2057370,SangHai Composite Historical Data
+163,DXY,usdollar,942611,2067751,US Dollar Index Historical Data
+164,N225CH2U,nikkei-225-usd-hedged,976397,2131825,Nikkei 225 USD Hedged Historical Data
+165,MOEX.ME,mcx,13666,2031938,MOEX Russia Historical Data
+166,IXIC,nasdaq-composite,14958,2035302,NASDAQ Composite Historical Data
+167,HSI,hang-sen-40,179,2030179,Hang Seng Historical Data
+168,GSPC,us-spx-500,166,2030167,S&amp;P 500 Historical Data
+169,FTSE,uk-100,27,2030166,FTSE 100 Historical Data
+170,BSESN,sensex,39929,2055486,BSE Sensex 30 Historical Data
+171,DJI,us-30,169,2030170,Dow Jones Industrial Average Historical Data
+172,GDAXI,germany-30,172,2030173,DAX Historical Data
+173,IBEX35,spain-35,174,2030174,IBEX 35 Historical Data
+174,MERV,merv,13376,2131102,S&amp;P Merval Historical Data
+175,BIVA,ftse-biva-real-time-price-index,1089645,2204008,FTSE BIVA Real Time Price Index Historical Data
+176,IBRX,brazil-index,17922,2036166,Brazil Index Historical Data
+177,TA35,ta25,10529,2030232,TA 35 Historical Data
+178,JTOPI,ftse-jse-top-40,41043,2058366,FTSE/JSE top 40 Historical Data
+179,MASI,masi,13228,2032974,Moroccan All Shares Historical Data
+180,PLE,ple,13009,2031168,Al-Quds Historical Data
+181,AMGNRLX,amgnrlx,12259,2031103,Amman SE General Historical Data
+182,EGX30,egx30,12860,2031129,EGX 30 Historical Data
+183,PTDOW,dj-portugal,954743,2098046,Dow Jones Portugal Historical Data
+184,NCI,nci-index,50642,2064919,NCI index Historical Data
+185,SMI,switzerland-20,176,2030176,SMI Historical Data
+186,AMX,amx-index,14862,2034150,AMX Historical Data
+187,JKSE,idx-composite,29049,2054010,Jakarta Stock Exchange Composite Index Historical Data
